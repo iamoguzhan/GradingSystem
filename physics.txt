@@ -1,0 +1,4 @@
+﻿   Physics   200   Ali Yılmaz   50
+   Physics   208   Ahmet Kara   75
+   Physics   299   Ecem Gündüz   100
+   Physics   371   Morgan Freeman   80
